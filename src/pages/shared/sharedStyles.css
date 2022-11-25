@@ -1,0 +1,19 @@
+.logo{
+    width: 5em;
+    height: 3em;
+}
+
+.navBar{
+    background-color: #f18c38;
+}
+
+.toggleButton{
+    background-color: #379df1;
+    border-color: #379df1;
+    border-radius: 8px;
+}
+.toggleButton:hover{
+    background-color: #379df1;
+    border-color: #379df1;
+    border-radius: 8px;
+}
